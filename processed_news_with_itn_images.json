@@ -1,0 +1,75 @@
+{
+  "date": "2024-10-03T12:07:45.895735",
+  "news_items": [
+    {
+      "story": "Amid escalating tensions in the Middle East, Israel invades Lebanon, and Iran launches missiles (pictured) against Israel.",
+      "links": [
+        {
+          "title": "invades",
+          "url": "https://en.wikipedia.org/wiki/2024_Israeli_invasion_of_Lebanon"
+        },
+        {
+          "title": "launches missiles",
+          "url": "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_against_Israel"
+        }
+      ]
+    },
+    {
+      "story": "Flooding in Nepal leaves more than 200 people dead, including 37 in the nation's capital, Kathmandu.",
+      "links": [
+        {
+          "title": "Flooding",
+          "url": "https://en.wikipedia.org/wiki/2024_Nepal_floods"
+        },
+        {
+          "title": "Kathmandu",
+          "url": "https://en.wikipedia.org/wiki/Kathmandu"
+        }
+      ]
+    },
+    {
+      "story": "In Australian rules football, the Brisbane Lions defeat the Sydney Swans to win the AFL Grand Final.",
+      "links": [
+        {
+          "title": "Australian rules football",
+          "url": "https://en.wikipedia.org/wiki/Australian_rules_football"
+        },
+        {
+          "title": "Brisbane Lions",
+          "url": "https://en.wikipedia.org/wiki/Brisbane_Lions"
+        },
+        {
+          "title": "Sydney Swans",
+          "url": "https://en.wikipedia.org/wiki/Sydney_Swans"
+        },
+        {
+          "title": "the AFL Grand Final",
+          "url": "https://en.wikipedia.org/wiki/2024_AFL_Grand_Final"
+        }
+      ]
+    },
+    {
+      "story": "Hurricane Helene leaves more than 100 people dead across the southeastern United States.",
+      "links": [
+        {
+          "title": "Hurricane Helene",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Helene"
+        }
+      ]
+    },
+    {
+      "story": "British actress Maggie Smith dies at the age of 89.",
+      "links": [
+        {
+          "title": "Maggie Smith",
+          "url": "https://en.wikipedia.org/wiki/Maggie_Smith"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D7%99%D7%99%D7%A8%D7%95%D7%98%D7%99%D7%9D_%D7%91%D7%92%D7%9C%D7%99%D7%9C_%D7%94%D7%AA%D7%97%D7%AA%D7%95%D7%9F_%D7%91%D7%9E%D7%A1%D7%92%D7%A8%D7%AA_%D7%94%D7%94%D7%AA%D7%A7%D7%A4%D7%94_%D7%94%D7%90%D7%99%D7%A8%D7%90%D7%A0%D7%99%D7%AA_%D7%A2%D7%9C_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%28cropped%29.jpg/159px-%D7%99%D7%99%D7%A8%D7%95%D7%98%D7%99%D7%9D_%D7%91%D7%92%D7%9C%D7%99%D7%9C_%D7%94%D7%AA%D7%97%D7%AA%D7%95%D7%9F_%D7%91%D7%9E%D7%A1%D7%92%D7%A8%D7%AA_%D7%94%D7%94%D7%AA%D7%A7%D7%A4%D7%94_%D7%94%D7%90%D7%99%D7%A8%D7%90%D7%A0%D7%99%D7%AA_%D7%A2%D7%9C_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%28cropped%29.jpg"
+    }
+  ]
+}
