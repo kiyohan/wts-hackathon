@@ -1,68 +1,58 @@
 {
-  "date": "2024-10-03T12:07:45.895735",
+  "date": "date 03/10/2024 Time 17:49:43",
   "news_items": [
     {
       "story": "Amid escalating tensions in the Middle East, Israel invades Lebanon, and Iran launches missiles (pictured) against Israel.",
-      "links": [
+      "sub_links": [
         {
-          "title": "invades",
-          "url": "https://en.wikipedia.org/wiki/2024_Israeli_invasion_of_Lebanon"
+          "url": "https://en.wikipedia.org('/wiki/2024_Israeli_invasion_of_Lebanon', 'invades')"
         },
         {
-          "title": "launches missiles",
-          "url": "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_against_Israel"
+          "url": "https://en.wikipedia.org('/wiki/October_2024_Iranian_strikes_against_Israel', 'launches missiles')"
         }
       ]
     },
     {
       "story": "Flooding in Nepal leaves more than 200 people dead, including 37 in the nation's capital, Kathmandu.",
-      "links": [
+      "sub_links": [
         {
-          "title": "Flooding",
-          "url": "https://en.wikipedia.org/wiki/2024_Nepal_floods"
+          "url": "https://en.wikipedia.org('/wiki/2024_Nepal_floods', 'Flooding')"
         },
         {
-          "title": "Kathmandu",
-          "url": "https://en.wikipedia.org/wiki/Kathmandu"
+          "url": "https://en.wikipedia.org('/wiki/Kathmandu', 'Kathmandu')"
         }
       ]
     },
     {
       "story": "In Australian rules football, the Brisbane Lions defeat the Sydney Swans to win the AFL Grand Final.",
-      "links": [
+      "sub_links": [
         {
-          "title": "Australian rules football",
-          "url": "https://en.wikipedia.org/wiki/Australian_rules_football"
+          "url": "https://en.wikipedia.org('/wiki/Australian_rules_football', 'Australian rules football')"
         },
         {
-          "title": "Brisbane Lions",
-          "url": "https://en.wikipedia.org/wiki/Brisbane_Lions"
+          "url": "https://en.wikipedia.org('/wiki/Brisbane_Lions', 'Brisbane Lions')"
         },
         {
-          "title": "Sydney Swans",
-          "url": "https://en.wikipedia.org/wiki/Sydney_Swans"
+          "url": "https://en.wikipedia.org('/wiki/Sydney_Swans', 'Sydney Swans')"
         },
         {
-          "title": "the AFL Grand Final",
-          "url": "https://en.wikipedia.org/wiki/2024_AFL_Grand_Final"
+          "url": "https://en.wikipedia.org('/wiki/2024_AFL_Grand_Final', 'the AFL Grand Final')"
         }
       ]
     },
     {
       "story": "Hurricane Helene leaves more than 100 people dead across the southeastern United States.",
-      "links": [
+      "sub_links": [
         {
-          "title": "Hurricane Helene",
-          "url": "https://en.wikipedia.org/wiki/Hurricane_Helene"
+          "url": "https://en.wikipedia.org('/wiki/Hurricane_Helene', 'Hurricane Helene')"
         }
       ]
     },
     {
       "story": "British actress Maggie Smith dies at the age of 89.",
-      "links": [
+      "sub_links": [
         {
-          "title": "Maggie Smith",
-          "url": "https://en.wikipedia.org/wiki/Maggie_Smith"
+          "url": "https://en.wikipedia.org('/wiki/Maggie_Smith', 'Maggie Smith')"
         }
       ]
     }

@@ -49,9 +49,9 @@ def extract_links(item_html):
     links = re.findall(r'<a href="([^"]+)"[^>]*>(.*?)</a>', item_html)
     parsed_links = []
     for link in links:
-        url, title = link
+        url= link
         full_url = f"https://en.wikipedia.org{url}"
-        parsed_links.append({"title": title, "url": full_url})
+        parsed_links.append({"url": full_url})
     return parsed_links
 
 def process_news_item(item_html):
@@ -60,7 +60,7 @@ def process_news_item(item_html):
     links = extract_links(item_html)  # Extract links from the news item
     return {
         "story": story_text,
-        "links": links
+        "sub_links": links
     }
 
 def main():
@@ -88,7 +88,7 @@ def main():
 
         # Save the processed news, including only relevant images from the section
         output = {
-            "date": datetime.now().isoformat(),
+            "date": datetime.now().strftime("date %d/%m/%Y Time %H:%M:%S"),
             "news_items": processed_news,
             "images": images  # Include only the images extracted from the 'itn-img' class
         }
